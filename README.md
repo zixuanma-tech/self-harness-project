@@ -1,4 +1,3 @@
-可以，下面这版 README 我已经按你现在的情况一起改了：
 # Self-Harness Demo
 
 This project is a **minimal runnable Self-Harness prototype with real LLM-backed candidate generation**.
